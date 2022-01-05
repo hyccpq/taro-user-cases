@@ -1,5 +1,12 @@
 const userCases = {
   微信小程序: [
+    {
+     name: "九机商城",
+     url: "https://img.9xun.com/newstatic/18656/04118f51cc8ecfdf.jpg",
+     framework: "vue3",
+     taroVersion: "3.3.15",
+     screenshot: []
+    },
      {
       name: "AXG网球赛事",
       url: "https://51axg.com/images/logo/gh-258.jpg",
